@@ -1,0 +1,4 @@
+Title: 
+----
+Caption: This is what the minimum viable product looked like after getting some visual design. Speaking to users we found that the graph wouldn't be useful without other important context, so we decided to leave it out for now and keep the apge focused.
+----

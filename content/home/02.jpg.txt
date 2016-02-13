@@ -1,0 +1,13 @@
+Title: Globemaster
+
+----
+
+Alt:  A photo of someone interacting with 
+
+----
+
+Description: The Globemaster table was a physical computing project. It is an interactive globe, which displays information about countries.
+
+----
+
+Link: interaction/Globemaster

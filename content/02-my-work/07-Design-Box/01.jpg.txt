@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: A visual design exploration for the Design Box mobile application. It shows the state after the "search" page was selected. 
+----

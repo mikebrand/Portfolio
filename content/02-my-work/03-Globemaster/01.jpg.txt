@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: This shows what the globe looks like. There are three rows of data orbiting it: The first is the country name that it is focused on, the second is some details about the country, and finally are some photos pulled from flickr. 
+----

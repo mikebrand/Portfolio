@@ -1,0 +1,23 @@
+Title: ADDQoL
+----
+Text: The Adult Diabetes Dependent Quality of Life Survey is designed to evaluate how much, and what types of impact diabetes has had on a patient's life. Originally a paper survey was used which was filled out and sent to an office to be manually typed into a computer. The data from the survey also was not being used in the initial survey because it could not be analysed fast enough.
+
+I was asked to create a digital version of the paper survey by the university. I met with the nurses who would be using the app and learned a lot about their work flows and other constraints. The nurse who did the consultation was only comfotable using email for interactions. The research nurses were currently using an excel spreadsheet located in dropbox.  
+
+The final process is that one iPad is kept behind the desk at the reception. The patient picks it up and fills out the survey on it before returning it to the receptionist. The nurse then gets an email on her iPad that has a link to the results as a graph. It also has a spot to input the user's ID which allows the data to be appended to a spreadsheet that is in the department's Dropbox. 
+
+For the patient I made all the buttons large enough to fit very legible text. Aesthetically the buttons are the only items to have colour. This was to draw attention to them and highlight that they were interactive. They were also given some depth  to make them look more touchable. The project was completed when touch interfaces were still new.
+
+Overall the application was a resounding success. When I followed up with the clients they said that "on the first day in use it was handled by 7 clients aged between 40s and 80yrs. The Diabetes Educator reported that everyone found it easy to use and all completed the survey and said that they found it better than the paper version."
+----
+Short: The Adult Diabetes Dependent Quality of Life survey was created as an iPad web app to simplify the task of collecting data from patients.
+----
+Skills:
+* User research
+* Interviewing
+* Wireframing
+* Prototyping
+* Visual Design
+* PHP back end
+* Dropbox API
+

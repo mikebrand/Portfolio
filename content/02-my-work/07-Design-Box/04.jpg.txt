@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: A screenshot of the Mac app prototype. In it you can see where the user can optionally categorise their image before uploading it.  
+----

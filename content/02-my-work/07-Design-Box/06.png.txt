@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: A wireframe of the Design Box single image view.  
+----

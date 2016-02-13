@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: A screenshot of the design box single image view. Comments are available beside the image, and there are links to share this one image, or an updating version of this image.
+----

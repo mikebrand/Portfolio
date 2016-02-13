@@ -1,0 +1,4 @@
+Title: 
+----
+Caption: This is a quick Skech (app) mockup of what the previous graph might look like in context. When we showed this to a few users they were unsure of how to interpret the graph. We then worked on simplifying this graph. 
+----

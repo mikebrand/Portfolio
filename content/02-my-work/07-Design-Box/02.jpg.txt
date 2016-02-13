@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: An early paper prototype that helped reveal some usability issues with a design. 
+----

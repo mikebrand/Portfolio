@@ -1,0 +1,4 @@
+Title: 
+----
+Caption: This is the wireframe for a teacher’s view of a member in her class. 
+----

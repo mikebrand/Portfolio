@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: Many users who are looking for a specific concept may not know the established taxonomy of concepts so a robust search feature was designed. 
+----

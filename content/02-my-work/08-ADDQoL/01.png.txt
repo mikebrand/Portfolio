@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: This shows one of the questions the user would answer. It is simple and focused to make sure the user is not distracted or confused. It was created when the first iPad was released, as such the skeuomorphic buttons were still important to show users how to interact with the tablet. 
+----

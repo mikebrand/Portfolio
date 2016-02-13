@@ -1,0 +1,8 @@
+Title: About Me
+----
+Text: I'm a bit of an international fellow. I was born in Canada, but moved to Sydney when I was nine (somehow I still have a canuck accent, eh.) I also spent 2008 in The Netherlands, doing a psychology exchange. Now I'm living in San Francisco.
+
+These travels have informed my designs, seeing how different people interact with their world. It's incredible how much of the way we approach things is universal, and yet, at the same time how much is unique to particular cultures.
+
+##Education##
+I completed a Bachelor of Arts at the University of Sydney. Initially I focused on psychology, but in the end I majored in digital cultures. In my penultimate year there I went to the University of Maastricht in the south of The Netherlands, where I studied cognitive neuroscience. Once I graduated from Sydney University I moved up to Brisbane to do a Masters of Interaction Design, which I completed in December 2011.

@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: The user would be able to click on a concept and see all paths that they could take to learn that concept. 
+----

@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: This shows the first view that the user would see when they visited the site. The design was inspired by classic video games, which feature different worlds. The different cities indicate the user's progress through the subject. 
+----

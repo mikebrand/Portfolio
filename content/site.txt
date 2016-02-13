@@ -1,0 +1,9 @@
+Title: Mike Brand
+----
+Author: Mike Brand
+----
+Description: Interaction designer, visual designer and all round nice fella. 
+----
+Keywords: interaction design, visual design, prototyping, user research, usability testing, wire frames, mock ups
+----
+Copyright: © 2009-(date: Year) (link: http://www.mkbrnd.com text: Mike Brand)

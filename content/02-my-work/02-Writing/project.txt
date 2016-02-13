@@ -1,0 +1,38 @@
+Title: Writing
+----
+Text: 
+
+These are some of the articles I’ve written over the last few years. You can see more on (link: https://medium.com/@mikeybrand text:Medium.com)
+
+
+
+(link: https://medium.com/@mikeybrand/an-australian-in-an-american-bathroom-34a063c2c22a text:An Australian in an American Bathroom)
+A look at American bathrooms from the perspective of an Australian designer. 
+
+(link: https://medium.com/@mikeybrand/eight-ways-to-help-your-co-workers-understand-the-value-of-user-experience-9eed2542c736 text: 8 Ways to Help your Co-Workers Understand the Value of User Experience)
+Working at an enterprise software company means having to work to sell the benefits of UX. 
+
+(link: https://medium.com/@mikeybrand/how-we-designed-the-sf-design-week-web-content-structure-d4f4bfe3622 text:How we Designed the SF Design Week Web Content Structure)
+I helped out with the article pages for SF Design Week. It involved coming up with a content structure. 
+
+(link: https://medium.com/@mikeybrand/hosting-an-internal-design-conference-97a67b99bdd3 text: Hosting an Internal Design Conference)
+We organised a design thinking conference at AppNexus to try to inspire a more user-centred mindset. 
+
+(link: https://medium.com/@mikeybrand/the-nuts-and-bolts-of-pair-designing-at-appnexus-6ed498862fc7 text: The Nuts and Bolts of Pair Designing at AppNexus)
+A deeper dive into how we worked with other teams while we were pair designing. 
+
+(link: https://medium.com/@mikeybrand/remote-pair-designing-5f082e78e038 text:Remote Pair Designing)
+Pair designing is a process where two people work together on one problem. A co-worker tried it with me.
+
+(link: https://medium.com/@mikeybrand/personas-f563f8ac087a text:Personas Didn’t Work at My Company)
+A brief reflection on why Personas weren’t successful at my company.
+
+## Images from Articles
+
+----
+Short: Some of the writing I’ve done.
+----
+Skills:
+* Writing
+* Communication
+

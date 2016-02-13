@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: Using a paper prototype to test the usability of some of the ideas for the Mac app design. 
+----

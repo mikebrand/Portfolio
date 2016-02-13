@@ -1,0 +1,13 @@
+Title: ADDQoL
+
+----
+
+Alt:  Screenshot of the ADDQoL
+
+----
+
+Description: The Adult Diabetes Dependent Quality of Life survey was created as an iPad web app to simplify the task of collecting and analysing data from patients.
+
+----
+
+link: interaction/ADDQoL

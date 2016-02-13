@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: Finally, the map would recede into the background when the user selected a concept. It would also show the user where they were so they would not get lost. (The pop over was previously designed by a coworker)
+----

@@ -1,0 +1,4 @@
+Title: Very nice image
+----
+Caption: One of the main challenges is that the client wanted to show all of the connections between concepts on the map, but highlight the taxonomical structure between them. 
+----

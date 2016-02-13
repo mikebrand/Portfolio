@@ -1,0 +1,335 @@
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  height: 101%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  background: #f9f9f5;
+}
+
+body {
+  font-family: 'Knockout 30 A', 'Knockout 30 B', 'avenir next', 'helvetica', 'sans-serif';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.5em;
+  background: #f9f9f5;
+  color: #393937;
+  margin: 0px auto 50px auto;
+}
+
+fieldset{
+	border: none;
+	padding: 0;
+}
+
+a {
+  color: rgb(225, 91, 16);
+  text-decoration: none;
+}
+a,
+a:hover,
+a:active,
+a:visited {
+  outline: 0px;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.button{
+	display: inline-block;
+	background: rgb(225, 91, 16);
+	color: white;
+	padding: 5px;
+	border-radius: 2px;
+	border: none;
+}
+
+.button.big{
+	padding: 5px 20px;
+}
+
+img {
+  outline: 0;
+  border: 0;
+}
+
+h1, h2, h3, h4{
+  
+}
+
+h1 {
+  
+  font-size: 2em;
+  line-height: 40px;
+  color: #4d4d4d;
+  margin: 1em 0 0 0;
+  
+}
+h2 {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-bottom: 8px;
+}
+h3 {
+  font-weight: normal;
+  font-size: 20px;
+  color: #222;
+  margin-bottom: 21px;
+}
+h4 {
+  color: red;
+  font-weight: normal;
+}
+p {
+  margin-bottom: 1em;
+}
+nav {
+  font-family: 'Knockout 27 A', 'Knockout 27 B', 'avenir next', 'helvetica', 'sans-serif';
+  font-weight: 400;
+  font-style: normal;
+  
+  overflow: hidden;
+  background: rgb(77,77,77);
+}
+nav li {
+  list-style: none;
+  float: right;
+  font-size: 2em;
+  padding: 10px;
+  margin-left: 1em;
+}
+
+
+
+
+
+nav li.active{
+   background: #646464;
+}
+
+nav li a {
+  color: #f9f9f5;
+  display: block;
+}
+
+nav li a span{
+  display: block;
+  margin: 17px 0 18px 0;
+}
+
+@media only screen and (max-width: 768px){
+	nav {
+		font-size: 12px;
+	}
+	nav li {
+	  margin-left: 0em;
+	}
+}
+
+
+header{
+	background: #4d4d4d;
+}
+
+
+.headingSpace{
+	padding-top: 3em;
+}
+
+/****************************************
+*** Global styling elements
+***************************************/
+.bottomBar{
+	padding-bottom: 20px;
+	border-bottom: 1px solid #c1c1b6;
+	margin-bottom: 20px;
+}
+/****************************************
+*** Intro Box
+***************************************/
+.introBox{
+	
+	padding: 30px 0 40px 0;
+}
+
+.introBox UL{
+	padding-left:10px;
+}
+
+.introBox li{
+	font-size: 3em;
+	line-height: 1.3em;
+	list-style: none;
+}
+
+.introBox li a{
+	text-decoration: none;
+	color: RGB(77,77,77);
+}
+
+.introBox li a em{
+	font-style: normal;
+	
+	text-decoration: none;
+	-webkit-text-shadow: 0px 0px 3px RGB(255,255,255);
+	text-shadow: 0px 0px 3px RGB(255,255,255);
+	
+	-webkit-transition: color .4s ease, text-shadow .4s ease;
+	
+	-moz-transition-property: color; 
+	-moz-transition-duration: .3s;
+	-moz-transition-timing-function: ease;
+	
+	-moz-transition-property: text-shadow; 
+	-moz-transition-duration: .3s;
+	-moz-transition-timing-function: ease;
+	
+	transition-property: color; 
+	transition-duration: .4s;
+	transition-timing-function: ease;
+	
+	transition-property: text-shadow; 
+	transition-duration: .4s;
+	transition-timing-function: ease;
+}
+
+.introBox li a:hover {
+	text-decoration: none;
+	color: RGB(77,77,77);
+}
+
+.introBox li a:hover  em{
+	-webkit-text-shadow: 0px 0px 3px RGB(225,91,16);
+	text-shadow: 0px 0px 3px RGB(225,179,153);
+	color: rgb(225, 91, 16);
+}
+
+.introBox li a:active{
+	padding-top:2px;
+	text-decoration: none;
+}
+
+/****************************************
+*** examples
+***************************************/
+.examples img{
+	margin: 40px 0 21px 0;
+}
+
+/****************************************
+*** introtext
+***************************************/
+.introtext li{
+	list-style: none;
+}
+
+.introtext ul{
+	padding-bottom: 20px;
+}
+
+
+section.content {
+  margin-top: 40px;
+}
+
+
+section h1:first-child{
+	margin-top: 0;
+  padding-top: 0;
+  border-top:none;
+}
+/****************************************
+*** IxD page
+***************************************/
+.ixd h2{
+	margin: 10px 0;
+}
+
+/****************************************
+*** Project page
+***************************************/
+.clearing-thumbs img{
+	padding: 0.9375em 0;
+}
+
+.skillsList h2{
+	padding-top:8px;
+	margin-bottom: 5px;
+}
+
+.skillsList div{
+	padding-bottom: 3em;
+}
+
+.skillsList div .button{
+	margin-bottom: 1em;
+}
+
+
+/****************************************
+*** Contact
+***************************************/
+.extremeButton{
+	display: block;
+	color: white;
+	background:#4d4d4d;
+	text-align: center;
+	font-size: 2em;
+	padding:10px;
+	margin: 40px 0;
+}
+
+#contact .social{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+input[type=text], textarea{
+	padding: 5px;
+	width: 100%;
+	border: 1px solid #c1c1b6;
+	font-size: 1.5em;
+	color: #4d4d4d;
+}
+
+textarea{
+	height: 4em;
+}
+
+.contactform-field{
+	margin-bottom: 1em;
+}
+
+/****************************************
+*** footer
+***************************************/
+footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 1px solid #c1c1b6;
+  color: #222;
+}
+
+footer.row{
+	margin-top: 20px;
+}
+
+footer li {
+  list-style: none;
+  padding-left: 0px;
+  margin-left: 0px;
+  font-size: 14px;
+}
+
+
+footer a {
+  display: inline;
+  color: rgb(225, 91, 16);
+}

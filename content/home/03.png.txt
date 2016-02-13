@@ -1,0 +1,13 @@
+Title: Student Reporting
+
+----
+
+Alt:  Capture of the student reporting page for CK12. 
+
+----
+
+Description: Student reporting was designed to allow teaches and students to both get an overview of assignment practice results.
+
+----
+
+Link: interaction/Reporting

@@ -1,0 +1,4 @@
+Title:
+----
+Caption: The reporting view was focused on giving an overview of which students had completed their assignments, not on how well they had done. However that data was available if the teacher clicked on an assignment title. The fullscreen view was there to show more students at once. 
+----

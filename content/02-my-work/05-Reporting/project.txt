@@ -1,0 +1,15 @@
+Title: Student Reporting
+----
+Text: CK-12 is a not for profit that makes educational resources for high school students. The website had a "Groups" feature where teachers could share content with their students. We decided that the teachers should be able to assign specific concepts to the students to study and practice. My task was to create two seperate representations of the results of doing the practice, one for the teachers and one for the students. 
+
+I started with an overview grid so that the teacher could orient themselves and quickly see which students needed help or had not done their homework. Initially my design called for a larger number of students to be shown on this page; however, the developers said that would not be possible. We settled on showing a subsection of students at a time, with arrows to show more. This had the benefit of making the data look less overwhelming. We also created a fullscreen view to allow the teacher to view more students at once. 
+
+The student's view is a chronological listing of their most recently completed assignments. I broke the results down by concepts as opposed to subjects. This decision came out of interviews with students. They saw the concept level of granularity as the best way to plan their studying.
+----
+Short: Reporting was designed to allow teaches and students to both get an overview of assignment practice results. 
+----
+Skills:
+* Teamwork
+* Wireframing
+* User Interviews
+* Pixel perfect mock ups. 
