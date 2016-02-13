@@ -57,7 +57,7 @@
 			<li>Photoshop</li>
 			<li>Illustrator</li>
 			<li>Sketch</li>
-			<li>OmniGraffle</li>
+			<li>Framer.js</li>
 			
 		</ul>
 	</div><!--/skill-->
