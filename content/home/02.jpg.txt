@@ -1,13 +1,13 @@
-Title: Globemaster
+Title: Trader Home
 
 ----
 
-Alt:  A photo of someone interacting with 
+Alt:  Trader Home  Design
 
 ----
 
-Description: The Globemaster table was a physical computing project. It is an interactive globe, which displays information about countries.
+Description: I helped create a new log-in experience that users love
 
 ----
 
-Link: interaction/Globemaster
+Link: my-work/Trader-Home
