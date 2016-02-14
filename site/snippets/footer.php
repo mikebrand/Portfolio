@@ -25,9 +25,7 @@
 		 var logoHeight = $("#logo").height();
 		 $("#logo").css("padding-top", ((55-logoHeight)/2)+10);
 		 
-		 $( window ).resize(function() {
-		  $("#logo").css("padding-top", ((55-logoHeight)/2));
-		});
+		 
   	});
   	
 </script>
