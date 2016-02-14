@@ -1,13 +1,13 @@
-Title: Student Reporting
+Title: Writing
 
 ----
 
-Alt:  Capture of the student reporting page for CK12. 
+Alt:  An illustration I did for an article.  
 
 ----
 
-Description: Student reporting was designed to allow teaches and students to both get an overview of assignment practice results.
+Description: I write articles on design practices and whatever else crosses my mind. 
 
 ----
 
-Link: interaction/Reporting
+Link: my-work/Writing
