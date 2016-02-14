@@ -1,13 +1,13 @@
-Title: ADDQoL
+Title: SF Design Week
 
 ----
 
-Alt:  Screenshot of the ADDQoL
+Alt:  SFDW Article PAge
 
 ----
 
-Description: The Adult Diabetes Dependent Quality of Life survey was created as an iPad web app to simplify the task of collecting and analysing data from patients.
+Description: I designed the article page for San Francisco Design Week. 
 
 ----
 
-link: interaction/ADDQoL
+link: my-work/SF-Design-Week
