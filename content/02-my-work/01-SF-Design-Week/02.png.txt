@@ -1,4 +1,4 @@
 Title: 
 ----
-Caption: Once we'd done some research we started exploring a few different ideas. This shows some graph exploration. We'd done some exploring of different layouts ahead of time. Here we were looking at how useful it would be to show the history of how far a trader deviated from their goal.
+Caption: Mobile
 ----
