@@ -5,7 +5,7 @@ Text:
 I volunteer to help with the San Francisco Design Week website. I'm the lead for the news side. The first project I tackled was the article page. I had to work within the brand requirements while also making a great read experience.
 
 ##Content Structure##
-Part of working on the website was creating a content structure. This involved auditing our social channel and their requirements so that we could make sharing content as easy as possible. 
+Part of working on the website was (link: https://medium.com/@mikeybrand/how-we-designed-the-sf-design-week-web-content-structure-d4f4bfe3622 text:creating a content structure.) This involved auditing our social channel and their requirements so that we could make sharing content as easy as possible. 
 
 ----
 Short: Designing and building the article page for SF Design Week
