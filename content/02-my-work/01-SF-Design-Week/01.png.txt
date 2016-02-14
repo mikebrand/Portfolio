@@ -1,4 +1,4 @@
 Title:
 ----
-Caption: This is a concept sketch I did for the project before we conducted research. On the right we listed the objects that the user cared about. We had a graph for each that would highlight how it was performing so they could quickly diagnose what needed attention and then dive in deeper. 
+Caption: Desktop. 
 ----
