@@ -1,4 +1,0 @@
-Title: 
-----
-Caption: We explored showing a tick on the graph where the goal would be. At this point the developers discovered that it would take a long time to get the historic goals from the server so we ended up abandoning the feature. 
-----
