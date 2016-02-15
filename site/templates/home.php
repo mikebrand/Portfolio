@@ -3,7 +3,7 @@
 <?php snippet('submenu') ?>
 <?php snippet('header') ?>
 <div class = "row">
-	<div class = "introBox bottomBar columns small-12 large-12">
+	<div class = "introBox columns small-12 large-12">
 		<ul>
 			<li><a href = "about-us">Hi there, I'm <em>Mike Brand</em>,</a></li>
 			<li><a href = "interaction">I do <em>interaction</em> design.</a></li>
