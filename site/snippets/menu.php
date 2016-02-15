@@ -20,7 +20,7 @@
 <body>
 <header>
 	<nav class="menu row">
-		<div id ="logo" <?php echo ($page->title() =="home") ? ' class="active columns small-2 large-2"' : 'class="small-2 columns large-2"'; ?>><a href="<?php echo url() ?>"><img src="<?php echo url('assets/images/logo.png'); ?>" alt="<?php echo html($site->title()); ?>" /></a></div>
+		<div id ="logo" <?php echo ($page->title() =="home") ? ' class="active columns small-2 large-2"' : 'class="small-2 columns large-2"'; ?>><a href="<?php echo url() ?>"><img src="<?php echo url('assets/images/logog.png'); ?>" alt="<?php echo html($site->title()); ?>" /></a></div>
 	  
 		  <ul class="active columns small-10 large-10">
 		    <?php foreach($pages->visible() AS $p): ?>
