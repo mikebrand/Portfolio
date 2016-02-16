@@ -1,0 +1,19 @@
+Title: Globemaster
+----
+Text: The Globemaster is an interactive globe that displays information about countries. The user selects a location by physically moving the globe. People who came by at the exhibition were really engaged with it and would drag their friends over.
+
+We started out with brainstorming different ideas, and then moved on to sketching and story-boarding how people would interact with the globe. From there we created some prototypes of different aspects - some fake visualisations, and some different tables.I helped out with the initial ideation and table design. From there I was responsible for designing and coding the information display. I used Action Script 3 to connect to the Flickr and Google Maps APIs.
+
+For the design we had some specific constraints. We were using a projector in a location with variable ambient light levels, so the design had to very high contrast. The resolution was only 800px by 800px, which meant keeping everything minimalist. 
+----
+Short: The Globemasters is an interactive globe which displays information about locations.
+----
+Skills:
+* Teamwork
+* Visual Design
+* Action Script 3
+* flickr API
+* Prototype Building
+* Presentation Creation
+----
+Logo: ![SAP](/path/to/img.jpg "Optional title")
