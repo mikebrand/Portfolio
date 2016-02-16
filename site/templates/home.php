@@ -6,7 +6,7 @@
 	<div class = "introBox columns small-12 large-12">
 		<ul>
 			<li><a href = "about-us">Hi there, I'm <em>Mike Brand</em>,</a></li>
-			<li><a href = "interaction">I do <em>interaction</em> design.</a></li>
+			<li><a href = "my-work">I do <em>interaction</em> design.</a></li>
 		</ul>
 	</div><!--/IntroText-->
 </div><!--row-->	
@@ -19,7 +19,7 @@
 			
 			<a href = "<?php echo $thisImage->link() ?>"><img src="<?php echo $thisImage->url() ?>" alt="<?php echo $thisImage->alt() ?>" /></a> 
 			<h2><a href = "<?php echo $thisImage->link() ?>"><?php echo $thisImage->title() ?></a></h2>
-			<p> <?php echo $thisImage->description() ?> <a href = "<?php echo $thisImage->link() ?>">Read more</a></p>
+			<p> <?php echo $thisImage->description() ?> </p>
 		
 		</div><!--/artbox-->
 	<?php endforeach ?>
