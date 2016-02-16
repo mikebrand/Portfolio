@@ -106,7 +106,7 @@ nav li {
 
 
 nav li.active{
-   background: #646464;
+   background: #ccc;
 }
 
 nav li a {
@@ -127,9 +127,6 @@ nav li a span{
 	  margin-left: 0em;
 	}
 }
-
-
-
 
 .headingSpace{
 	padding-top: 3em;
@@ -244,6 +241,10 @@ section h1:first-child{
 	margin: 10px 0;
 }
 
+.artBox{
+	padding-bottom: 40px;
+}
+
 /****************************************
 *** Project page
 ***************************************/
@@ -264,6 +265,26 @@ section h1:first-child{
 	margin-bottom: 1em;
 }
 
+/****************************************
+*** About
+***************************************/
+.social a{
+	display: block;
+	padding: 0 10px;
+	color: white;
+}
+
+.medium a{
+	background-color: #02B875;
+}
+
+.linkedin a{
+	background-color: #006699;
+}
+
+.twitter a{
+	background-color: #33CCFF;
+}
 
 /****************************************
 *** Contact
