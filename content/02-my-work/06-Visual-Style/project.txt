@@ -1,8 +1,6 @@
 Title: Visual Style for CK12
 ----
-Text: CK-12 is a not for profit that makes educational resources for high school students, though when I started working with them they were focused on providing content for teachers. Initially their website was cluttered and lacked a clear visual hierarchy. The brand needed a clear personality and message. 
-
-I started working on a visual style which was more typography focused and modern. It was inspired by the Swiss style of graphic design. I thought that this would help bring an air of authority which was missing in the previous style, and help counter balance any quality concerns due to the content being "free." After these designs were completed the company decided to focus more on students rather than teachers, so the style was switched to something which was more playful.
+Text:  I started working on a visual style for CK-12 which was typography focused. It was inspired by the Swiss style of graphic design. I thought that this would help bring an air of authority which was missing in the previous style, and help counter-balance any quality concerns due to the content being free. After these designs were completed the company decided to focus more on students rather than teachers, so the style was switched to something which was more playful.
 
 ----
 Short: While freelancing with CK-12 I designed a new visual style for them. 
