@@ -1,4 +1,0 @@
-Title: Building a Prototype
-----
-Caption: People interacting with the globe. The text on the table is not visible because it's mid animation. 
-----
