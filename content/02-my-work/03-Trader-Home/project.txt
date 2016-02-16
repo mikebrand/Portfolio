@@ -2,11 +2,11 @@ Title: Trader Home
 ----
 Text: 
 
-This projects is one of my favourites. I worked on various aspects of it for almost a year. It started early on when I was working at AppNexus. The product manager was thinking about what an ideal log in experience would look like for our users, so he reached out to me to develop a few concepts. I used personas to inform my initial sketches without conducting more research. 
+This was my first time trying <a href = "https://medium.com/@mikeybrand/remote-pair-designing-5f082e78e038">pair designing</a>. We started off by visiting some of our users and watching how they went about their morning process. We learned that the number one thing they care about is how they're tracking relative to their monthly goal.  
 
-The following quarter the trader home project was prioritised and we had some changes in staffing, so I now had another designer on my team. We used this as our first time to try <a href = "https://medium.com/@mikeybrand/remote-pair-designing-5f082e78e038">pair designing</a>. We started off by visiting some of our users and watching how they went about their morning process. This gave us great insights into what figures they actually cared about and how they prioritise their work. 
+From there we started white boarding ideas, frequently checking in with the developers and product managers. We did some usability testing and iterated a few times.
 
-From there we went back and started white boarding ideas, frequently checking in with the developers and product managers. When we had our first alpha out the door our users were clamouring to use it. The product was a huge success, one user said "This is the first time clicking a button in Console has been fun." 
+The product was a huge success, one user said "This is the first time clicking a button in Console has been fun." Recently it's been used as a sales tool as well. 
 
 This was also one of my first projects using <a href = "www.framerjs.com">Framer.js</a> to build prototypes. I did a <a href = "http://share.framerjs.com/pbh6hq138650/">quick exploration of a loading animation</a>. 
 ----
