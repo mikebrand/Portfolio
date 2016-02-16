@@ -2,9 +2,7 @@ Title: Design Box
 ----
 Text: Designbox is a tool for sharing in-progress designs. Its main focus is on supporting the designer in getting good quality feedback on his or her work. It also allows the user to keep a history of designs that shows them their progress and keep track of feedback over time. The plan is for Design Box to consists of three parts, an iPhone app for capturing paper designs, a Mac app that interfaces with the Creative Suite to capture digital designs, and a website for viewing images. 
 
-I started working on this while studying interaction design at the University of Queensland, and I wanted a chance to try user centred design principles to create a product from beginning to end.This meant that I conducted user interviews and surveys before hand, and then through the design process conducted usability tests. 
-
-Currently there is a functioning Mac App prototype and website that communicate though a PHP back end.
+I conducted initial research to learn about user's work flows and file set up. From there I coded a prototype mac app (in Objective-C) and built a functioning PHP back end. 
 ----
 Short: Designbox is a tool to help designers share in-progress work.
 ----
