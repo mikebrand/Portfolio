@@ -1,10 +1,10 @@
 Title: Concept Map
 ----
-Text: The client wanted a new way to navigate their site which was based entirely on using a concept map. They suggested that this would give students context around what they were learning. A traditional concept map is a difficult way to navigate a website for the exact same reason as why they can be helpful pedagogically - the user may not know the relationship between concepts. This presented a challenge which was solved by creating robus searching methods
+Text: The product manager wanted to try to a navigation system based on a concept map. A traditional concept map is a difficult way to navigate a website for the exact same reason as why they can be helpful pedagogically - the user may not know the relationship between concepts. This meant that integrated search was important.
 
-I used an island metaphor for each of the major disciplines that the company covers - science, math and 'more.' On each island is a city that represents a subject - biology within science, for example. This is the level at which the company had mapped data available. These cities displayed the users progress in an engaging way by evolving and growing as they completed more concepts within them.
+Inspired by video games, I used an island metaphor for each of the major disciplines that the company covers - science, math and 'more.' On each island is a city that represents a subject - biology within science, for example. This is the level at which the company had mapped data available. These cities displayed the users progress in an engaging way by evolving and growing as they completed more concepts within them.
 
-Within the city the individual concepts were represented as houses. When a user finished one of them people moved into the house, and depending on how well they did it would be a fancier house. This gave them a quick at-a-glance of where they were struggling and where they were doing well.
+Within the city the individual concepts were represented as houses. When a user finished one of them people moved into the house. This gave them a quick at-a-glance of where they were struggling and where they were doing well.
 ----
 Short: The concept map was designed to allow kids to explore related educational resources.
 ----
