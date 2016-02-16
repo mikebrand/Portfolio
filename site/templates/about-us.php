@@ -13,6 +13,19 @@
 	    <?php echo kirbytext($page->text()) ?>
   </article>
 
-</section>
+	</section>
 </div><!--row-->
+<!--
+<div class = "row">
+	<div class="columns small-12 large-4 medium social">
+		<a href = "http://www.medium.com/@mikeybrand">Medium: Mikeybrand</a>
+	</div>
+	<div class="columns small-12 large-4 twitter social">
+		<a href = "http://www.twitter.com/mikeybrand">Twitter: Mikeybrand</a>
+	</div>
+	<div class="columns small-12 large-4 linkedin social">
+		<a href = "https://www.linkedin.com/in/brandmike">LinkedIn: Mike Brand</a>
+	</div>
+</div>
+-->
 <?php snippet('footer') ?>
