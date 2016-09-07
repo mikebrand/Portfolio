@@ -5,7 +5,7 @@
 	<div class = "introBox columns small-12 large-12">
 		<ul>
 			<li><a href = "about-us">Hi there, I'm <em>Mike Brand</em>,</a></li>
-			<li><a href = "my-work">I do <em>interaction</em> design.</a></li>
+			<li>These are some of my designs.</a></li>
 		</ul>
 	</div><!--/IntroText-->
 </div><!--row-->	

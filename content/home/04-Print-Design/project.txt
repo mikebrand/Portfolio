@@ -1,0 +1,20 @@
+Title: Print Design
+----
+Text: 
+
+It's fun to play with different mediums. These are some print experiments.
+
+##Christmas Cards
+These are some cards that I made for Christmas 2010. It was just a personal project to learn more about Illustrator.
+
+##Interface Element Posters
+I lead a team to come up with design principles for AppNexus. To help publicise them at the company I created some posters. They were based on patterns made from interface elements. Since the actual principles themselves were only relevant internally at AppNexus I recreated a series with the interface element as the title. 
+
+----
+Short: It's fun to play with different mediums. These are some print experiences that I've done.
+----
+Skills:
+* Graphic Design
+* Print Design
+* Typography
+

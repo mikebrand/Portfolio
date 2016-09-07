@@ -205,6 +205,10 @@ nav li a span{
 	text-decoration: none;
 }
 
+.cnn{
+	text-decoration: line-through;
+}
+
 /****************************************
 *** examples
 ***************************************/
