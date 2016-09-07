@@ -1,0 +1,11 @@
+Title: Visual Style for CK12
+----
+Text:  I started working on a visual style for CK-12 which was typography focused. It was inspired by the Swiss style of graphic design. I thought that this would help bring an air of authority which was missing in the previous style, and help counter-balance any quality concerns due to the content being free. After these designs were completed the company decided to focus more on students rather than teachers, so the style was switched to something which was more playful.
+
+----
+Short: While freelancing with CK-12 I designed a new visual style for them. 
+----
+Skills:
+* Visual Design
+* Wireframing
+* Pixel perfect mock ups. 
